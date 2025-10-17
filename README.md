@@ -1,4 +1,4 @@
-"# SO SÁNH PUT vs PATCH TRONG SPRING BOOT REST API
+# SO SÁNH PUT vs PATCH TRONG SPRING BOOT REST API
 
 ## Mục tiêu
 
@@ -115,4 +115,3 @@ public class UserController {
     }
 }
 ```
-"
